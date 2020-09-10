@@ -3,17 +3,14 @@
 
     <item
         android:id="@+id/home"
-        android:enabled="true"
         android:icon="@drawable/home"
         android:title="@string/home"/>
     <item
         android:id="@+id/products"
-        android:enabled="true"
         android:icon="@drawable/products"
         android:title="@string/all_products"/>
     <item
         android:id="@+id/message"
-        android:enabled="true"
         android:icon="@drawable/message"
         android:title="@string/message"/>
 </menu>
